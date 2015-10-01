@@ -8,7 +8,7 @@ export default ({ videos }) =>
       <img src={site.baseurl + '/img/logo.png'} style={styles.logo} />
       <nav style={styles.links}>
         <a style={styles.a} href={site.baseurl + '/videos'}>Videos</a>
-        <a style={styles.a} href={site.baseurl + '/posts'}>Words</a>
+        <a style={styles.a} href={site.baseurl + '/posts'}>Articles</a>
         <a style={styles.a} href={site.baseurl + '/about'}>About</a>
       </nav>
     </header>
