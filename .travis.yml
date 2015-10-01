@@ -1,0 +1,8 @@
+script: bash ./deploy.sh
+language: node_js
+node_js:
+  - '0.12'
+env:
+  global:
+  - GH_REF: github.com/mushishi78/two-takes.git
+  - secure:

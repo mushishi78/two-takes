@@ -1,0 +1,29 @@
+h1, h2, h3, h4, h5, h6 { margin: 0; }
+button, textarea { outline: none; }
+header, nav { text-align: center; }
+main { padding: 0 2%; }
+body { font-family: 'Poppins', sans-serif; }
+
+html {
+  background: #06444C;
+  background: linear-gradient(45deg, #06444C 0%, #0A5C69 100%);
+  background-size: 350px 150px;
+  background: repeating-linear-gradient(-45deg, #06444C 0, #0B7182 2px, #06444C 3px);
+}
+
+a {
+  text-decoration: none;
+  color: #F8921E;
+}
+a:hover { color: #58E5FF; }
+
+time {
+  display: block;
+  font-size: 0.8em;
+  color: #FFF;
+}
+
+blockquote {
+  border-left: 3px solid #9E9E9E;
+  padding-left: 10px;
+}
