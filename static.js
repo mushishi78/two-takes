@@ -3,6 +3,6 @@ import { renderToString } from 'react-dom/server';
 import App from './templates/app.jsx';
 import './css';
 
-export default function(locals, callback) {
-  callback(null, '<!doctype html>' + renderToString(<App path={locals.path} />));
+export default function(path, props, callback) {
+  callback('<!doctype html>' + renderToString(<App path={path} />));
 }
