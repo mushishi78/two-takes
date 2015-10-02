@@ -5,10 +5,10 @@ const styles = style({
   h2: 'margin: 0',
   videoWrapper: `
     position: relative;
-    paddingBottom: 56.25%;
+    padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    maxWidth: 100%;
+    max-width: 100%;
     margin: 25px 0
   `,
   iframe: `

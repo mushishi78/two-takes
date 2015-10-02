@@ -1,3 +1,8 @@
+import { pages, posts, site, videos } from './data';
+
+const routes = { ...pages, ...posts, ...videos };
+export const title = path => site.name + (routes[path] ? ' | ' + routes[path].title : '');
+
 export function stripHTML(str) {
   return str.replace(/<(?:.|\n)*?>/gm, '');
 }
