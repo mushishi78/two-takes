@@ -1,29 +1,17 @@
-import React from 'react';
-import addressbar from 'addressbar';
-import { render } from 'react-dom';
-import App from './templates/app.jsx';
-import { site } from './data';
 import './css';
+import addressbar from 'addressbar';
+import App from './templates/app';
+import { site } from './data';
 
-class Router extends React.Component {
-  componentWillMount() {
-    this.setPath(location.pathname)
+const appElement = document.getElementById('app');
 
-    addressbar.on('change', event => {
-      event.preventDefault();
-      this.setPath(event.target.value);
-    });
-  }
-  setPath(path) {
-    path = normalize(path);
-    addressbar.value = site.baseurl + path;
-    this.setState({ path });
-    window.scrollTo(0, 0);
-  }
-  render() {
-    return <App path={this.state.path} />;
-  }
-}
+addressbar.on('change', event => {
+  event.preventDefault();
+  const path = normalize(event.target.value);
+  addressbar.value = site.baseurl + path;
+  appElement.innerHTML = App(path);
+  window.scrollTo(0, 0);
+});
 
 function normalize(path) {
   path = path.replace(location.origin, '');
@@ -33,5 +21,3 @@ function normalize(path) {
   path = path.replace(/\/$/, '') || '/';
   return path;
 }
-
-render(<Router />, document);

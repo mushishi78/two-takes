@@ -26,7 +26,7 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.jsx?$/, loader: 'babel' },
+      { test: /\.js$/, loader: 'babel' },
       { test: /\.yml$/,  loader: 'json!yaml' },
       { test: /\.md$/,   loader: 'markdown-with-front-matter' },
       { test: /\.css$/,  loader: ExtractTextPlugin.extract('style', 'css') }

@@ -10,8 +10,6 @@
     "extract-text-webpack-plugin": "^0.8.2",
     "json-loader": "^0.5.3",
     "markdown-with-front-matter-loader": "^0.1.0",
-    "react": "^0.14.0-rc1",
-    "react-dom": "^0.14.0-rc1",
     "static-render-webpack-plugin": "^0.1.2",
     "style-loader": "^0.12.4",
     "webpack": "^1.11.0",
