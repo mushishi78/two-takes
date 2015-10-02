@@ -1,6 +1,6 @@
 import React from 'react';
 import { site } from '../data';
-import VideoList from './video-list.jsx';
+import VideoListItem from './video-list-item.jsx';
 
 export default ({ videos }) =>
   <main>
@@ -12,7 +12,10 @@ export default ({ videos }) =>
         <a style={styles.a} href={site.baseurl + '/about'}>About</a>
       </nav>
     </header>
-    <VideoList videos={videos.slice(0, 3)} />
+
+    <article style={styles.article}>{
+      videos.slice(0, 3).map(video => <VideoListItem video={video} />)
+    }</article>
 
     <nav style={styles.icons}>
       <a href={site.facebook} target='_blank'>
@@ -45,6 +48,9 @@ const styles = {
   a: {
     padding: '0 1%',
     color: '#fff'
+  },
+  article: {
+    textAlign: 'center'
   },
   icons: {
     textAlign: 'right'

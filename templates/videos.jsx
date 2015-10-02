@@ -1,9 +1,20 @@
 import React from 'react';
 import HomeButton from './home-button.jsx';
-import VideoList from './video-list.jsx';
+import VideoListItem from './video-list-item.jsx';
 
 export default ({ videos }) =>
   <main>
     <HomeButton />
-    <VideoList videos={videos} />
+    <article>{
+      collectProperty(videos, 'category').sort().map(category =>
+        <section>
+          <h1>{category}</h1>{
+            videos.filter(video => video.category === category).map(video => <VideoListItem video={video} />)
+        }</section>
+      )
+    }</article>
   </main>
+
+function collectProperty(ary, k) {
+  return ary.reduce((res, elem) => res.indexOf(elem[k]) < 0 ? res.concat(elem[k]) : res, []);
+}
