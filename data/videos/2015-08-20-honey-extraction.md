@@ -2,7 +2,7 @@
 title: Honey Extraction
 youtube_id: RtBU14fZHJM
 date: 2015-08-20
-tags: [Honey, Comb, Interview]
+category: Tips
 ---
 One of the criticisms and downsides of not using foundation is the difficulty in extracting the honey without destroying the comb. I decided to see how well my comb holds up in a radial extractor. Will it explode?
 

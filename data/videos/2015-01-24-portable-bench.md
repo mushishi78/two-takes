@@ -2,7 +2,7 @@
 title: Portable Bench
 youtube_id: 3yRHVVwbzHo
 date: 2015-01-24
-tags: [Bench, Construction]
+category: Tips
 ---
 A few years ago, very early in the history of this vlog, I showed my portable bench made from the plans found in the Jan 2012 issue of Bee Culture magazine. I've been using the bench consistently since then, I just never really talked about it again. To make up for that, here's a video showing more about the bench designed by Katharina Davitt.
 

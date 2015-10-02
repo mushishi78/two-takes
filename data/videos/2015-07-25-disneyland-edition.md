@@ -2,7 +2,7 @@
 title: Disneyland Edition
 youtube_id: giMGJJ4pqnI
 date: 2015-07-25
-tags: [VidCon, Disney]
+category: News
 ---
 Went to VidCon in Anaheim, CA and had a fun time. We also visited Disneyland, because I'm a Disney Freak, and I tried to find as many bee references as I could.
 

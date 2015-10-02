@@ -2,7 +2,7 @@
 title: Viewer Q&A #1
 youtube_id: sIjb-H9IJSc
 date: 2015-01-11
-tags: [Q&A]
+category: News
 ---
 Got any questions or video suggestions? Comment below and I'll answer your questions in a future video.
 
