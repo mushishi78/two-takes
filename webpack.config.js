@@ -10,7 +10,8 @@ var routes = [
   '/about',
   '/videos',
   '/posts',
-  { path: '/404',  output: '/404.html' }
+  { path: '/404',  output: '/404.html' },
+  { path: '/feed',  output: '/feed.xml' }
 ].concat(posts).concat(videos);
 
 module.exports = {

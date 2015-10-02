@@ -1,8 +1,8 @@
 import React from 'react';
-import { site } from '../data';
+import { site, videos } from '../data';
 import VideoListItem from './video-list-item.jsx';
 
-export default ({ videos }) =>
+export default () =>
   <main>
     <header style={styles.header}>
       <img src={site.baseurl + '/img/logo.png'} style={styles.logo} />
@@ -14,7 +14,7 @@ export default ({ videos }) =>
     </header>
 
     <article style={styles.article}>{
-      videos.slice(0, 3).map(video => <VideoListItem video={video} />)
+      videos.values.slice(0, 3).map(video => <VideoListItem video={video} />)
     }</article>
 
     <nav style={styles.icons}>

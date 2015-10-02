@@ -1,10 +1,10 @@
 import React from 'react';
-import { site } from '../data';
+import { site, posts } from '../data';
 import HomeButton from './home-button.jsx';
 
-export default ({ posts }) =>
+export default () =>
   <main><HomeButton />{
-    posts.map(post =>
+    posts.values.map(post =>
       <a href={site.baseurl + post.path}
          className='post-link'
          style={styles.a}
