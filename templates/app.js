@@ -1,4 +1,3 @@
-import React from 'react';
 import { pages, posts, videos } from '../data';
 import Home from './home';
 import Page from './page';
