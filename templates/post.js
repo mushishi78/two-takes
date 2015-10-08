@@ -9,7 +9,7 @@ export default post => `
     <article ${styles.article}>
       <h1 itemprop='headline'>${post.title}</h1>
       <time itemprop='datePublished' content=${post.date}>
-        ${prettyDate(post)}
+        ${prettyDate(post.date)}
       </time>
       <div>By: <span itemprop='author'>${post.author}</span></div>
       <div itemprop='articleBody' ${styles.body}>${post.__content}</div>

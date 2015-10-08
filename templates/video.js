@@ -27,7 +27,7 @@ export default video => `
     <header>
   	  <h2 ${styles.h2} itemprop='name'>${video.title}</h2>
   	  <time itemprop='uploadDate' content=${video.date}>
-  	    ${prettyDate(video)}
+  	    ${prettyDate(video.date)}
   	  </time>
   	</header>
   	<section ${styles.videoWrapper}>

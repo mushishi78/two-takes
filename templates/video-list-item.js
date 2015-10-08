@@ -20,7 +20,7 @@ const styles = style({
 export default video => `
   <a href='${site.baseurl + video.path}' ${styles.a}>
     <h3>${video.title}</h3>
-    <time ${styles.time}>${prettyDate(video)}</time>
+    <time ${styles.time}>${prettyDate(video.date)}</time>
     <img src='//img.youtube.com/vi/${video.youtube_id}/hqdefault.jpg'
          ${styles.img} />
   </a>

@@ -12,5 +12,4 @@ export default (path) =>
   path === '/videos' ? Videos :
   pages[path]  ? Page(pages[path]) :
   posts[path]  ? Post(posts[path]) :
-  videos[path] ? Video(videos[path]) :
-                 Page(pages['/404'])
+  videos[path] ? Video(videos[path]) : Page(pages['/404.html'])

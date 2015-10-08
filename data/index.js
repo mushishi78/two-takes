@@ -2,8 +2,9 @@ import site from './site.yml';
 site.baseurl = site.baseurl || '';
 
 const toPath = file => file.replace(/\.\/.*?\//, '/').replace(/\..*$/, '');
-const reduceFn = (obj, file) => {
-  file = { ...require(file), path: toPath(file) };
+
+function reduceFn(obj, file) {
+  file = { path: toPath(file), ...require(file) };
   const values = (obj.values || []).concat(file);
   return { ...obj, [file.path]: file, values };
 };

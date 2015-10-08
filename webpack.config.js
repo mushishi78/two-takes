@@ -1,18 +1,6 @@
 var webpack = require('webpack');
-var StaticSiteGeneratorPlugin = require('static-render-webpack-plugin');
+var StaticWebpackPlugin = require('static-webpack-plugin');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
-var fs = require('fs');
-
-var posts  = fs.readdirSync(__dirname + '/data/posts' ).map(filenameToRoute);
-var videos = fs.readdirSync(__dirname + '/data/videos').map(filenameToRoute);
-var routes = [
-  '/',
-  '/about',
-  '/videos',
-  '/posts',
-  { path: '/404',  output: '/404.html' },
-  { path: '/feed',  output: '/feed.xml' }
-].concat(posts).concat(videos);
 
 module.exports = {
   entry: {
@@ -34,12 +22,8 @@ module.exports = {
   },
   devServer: { contentBase: './public' },
   plugins: [
-    new webpack.optimize.UglifyJsPlugin({ minimize: true }),
+    // new webpack.optimize.UglifyJsPlugin({ minimize: true }),
     new ExtractTextPlugin('styles.css'),
-    new StaticSiteGeneratorPlugin('static.js', routes)
+    new StaticWebpackPlugin('static.js')
   ]
 };
-
-function filenameToRoute(filename) {
-  return '/' + filename.replace(/\..*$/, '');
-}

@@ -1,11 +1,10 @@
 import { pages, posts, site, videos } from './data';
 
-const routes = { ...pages, ...posts, ...videos };
-export const title = path => site.name + (routes[path] ? ' | ' + routes[path].title : '');
+const all = { ...pages, ...posts, ...videos };
+export const title = path => site.name + (all[path] ? ' | ' + all[path].title : '');
 
-export function stripHTML(str) {
-  return str.replace(/<(?:.|\n)*?>/gm, '');
-}
+export const prettyDate = date => new Date(date).toDateString();
+export const stripHTML = str => str.replace(/<(?:.|\n)*?>/gm, '');
 
 export function escapeXML(str) {
   return str.replace(/[<>&'"]/g, c => {
@@ -24,10 +23,6 @@ export function style(styles) {
     styles[k] = `style='${styles[k].replace(/\s+/g, ' ')}'`;
   }
   return styles;
-}
-
-export function prettyDate(post) {
-  return new Date(post.date).toDateString();
 }
 
 export function collectProperty(ary, prop) {

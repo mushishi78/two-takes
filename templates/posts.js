@@ -21,7 +21,7 @@ const summary = post => stripHTML(post.__content).substring(0, 300) + '...';
 const PostListItem = post => `
   <a href='${site.baseurl + post.path}' class='post-link' ${styles.a}>
     <h3>${post.title}</h3>
-    <time ${styles.time}>${prettyDate(post)}</time>
+    <time ${styles.time}>${prettyDate(post.date)}</time>
     <p ${styles.p}>${summary(post)}</p>
   </a>
 `
