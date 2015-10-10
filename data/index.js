@@ -2,18 +2,10 @@ import site from './site.yml';
 site.baseurl = site.baseurl || '';
 
 const toPath = file => file.replace(/\.\/.*?\//, '/').replace(/\..*$/, '');
+const mapFn = file => ({ path: toPath(file), ...require(file) });
 
-function reduceFn(obj, file) {
-  file = { path: toPath(file), ...require(file) };
-  const values = (obj.values || []).concat(file);
-  return { ...obj, [file.path]: file, values };
-};
-
-const pages  = require.context('.', true, /\/pages\// ).keys().reduce(reduceFn, {});
-const posts  = require.context('.', true, /\/posts\// ).keys().reduce(reduceFn, {});
-const videos = require.context('.', true, /\/videos\//).keys().reduce(reduceFn, {});
-
-posts.values.reverse();
-videos.values.reverse();
+const pages  = require.context('.', true, /\/pages\// ).keys().reverse().map(mapFn);
+const posts  = require.context('.', true, /\/posts\// ).keys().reverse().map(mapFn);
+const videos = require.context('.', true, /\/videos\//).keys().reverse().map(mapFn);
 
 export default { pages, posts, site, videos };

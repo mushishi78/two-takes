@@ -1,0 +1,13 @@
+.home-header nav {
+  margin: -10px 0 10px;
+}
+
+.home-header a {
+  font-size: 1.2em;
+  padding: 0 1%;
+  color: #fff;
+}
+
+.home-article { text-align: center; }
+.home-icons { text-align: right; }
+.home-icons amp-img { margin: 5px 0.5% 0 }

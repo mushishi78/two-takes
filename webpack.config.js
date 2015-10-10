@@ -1,29 +1,27 @@
-var webpack = require('webpack');
 var StaticWebpackPlugin = require('static-webpack-plugin');
-var ExtractTextPlugin = require('extract-text-webpack-plugin');
+var AddCSSToHeadPlugin = require('add-css-to-head-plugin');
 
 module.exports = {
-  entry: {
-    'client': './client.js',
-    'static': './static.js'
-  },
+  entry: './static.js',
   output: {
     path: './public',
     libraryTarget: 'umd',
-    filename: '[name].js'
+    filename: 'static.js'
   },
   module: {
     loaders: [
-      { test: /\.js$/, loader: 'babel' },
-      { test: /\.yml$/,  loader: 'json!yaml' },
-      { test: /\.md$/,   loader: 'markdown-with-front-matter' },
-      { test: /\.css$/,  loader: ExtractTextPlugin.extract('style', 'css') }
+      { test: /\.js$/,  loader: 'babel' },
+      { test: /\.yml$/, loader: 'json!yaml' },
+      { test: /\.css$/, loader: 'raw' },
+      { test: /\.md$/,  loader: 'markdown-with-front-matter' }
     ]
+  },
+  node: {
+    fs: 'empty'
   },
   devServer: { contentBase: './public' },
   plugins: [
-    // new webpack.optimize.UglifyJsPlugin({ minimize: true }),
-    new ExtractTextPlugin('styles.css'),
-    new StaticWebpackPlugin('static.js')
+    new StaticWebpackPlugin('static.js'),
+    new AddCSSToHeadPlugin({ amp: true })
   ]
 };

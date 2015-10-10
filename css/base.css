@@ -15,7 +15,7 @@ a {
   text-decoration: none;
   color: #F8921E;
 }
-a:hover { color: #58E5FF; }
+a:hover { color: #000; }
 
 time {
   display: block;
@@ -27,3 +27,7 @@ blockquote {
   border-left: 3px solid #9E9E9E;
   padding-left: 10px;
 }
+
+.home-button { margin-top: 10px; }
+.article { margin: 0 10%; }
+.article-body { color: #fff; }

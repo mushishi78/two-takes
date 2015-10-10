@@ -1,8 +1,5 @@
 import { pages, posts, site, videos } from './data';
 
-const all = { ...pages, ...posts, ...videos };
-export const title = path => site.name + (all[path] ? ' | ' + all[path].title : '');
-
 export const prettyDate = date => new Date(date).toDateString();
 export const stripHTML = str => str.replace(/<(?:.|\n)*?>/gm, '');
 
@@ -16,13 +13,6 @@ export function escapeXML(str) {
       case '"': return '&quot;';
     }
   });
-}
-
-export function style(styles) {
-  for(let k in styles) {
-    styles[k] = `style='${styles[k].replace(/\s+/g, ' ')}'`;
-  }
-  return styles;
 }
 
 export function collectProperty(ary, prop) {

@@ -10,7 +10,7 @@ export default `<?xml version="1.0" encoding="UTF-8"?>
       <atom:link href='${site.url + site.baseurl}/feed.xml' rel='self' type='application/rss+xml' />
       <pubDate>${(new Date).toUTCString()}</pubDate>
       <lastBuildDate>${(new Date).toUTCString()}</lastBuildDate>${
-        videos.values.map(video => `
+        videos.map(video => `
           <item>
             <title>${escapeXML(video.title)}</title>
             <description>${escapeXML(stripHTML(video.__content))}</description>
