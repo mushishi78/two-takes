@@ -1,15 +1,7 @@
 ---
-title: Disneyland Edition
-youtube_id: giMGJJ4pqnI
-date: 2015-07-25
-category: News
+title: Check It Or Chuck It? The Martian
+youtube_id: OMKoB2Js0to
+date: 2015-09-08
+category: Check It Or Chuck It?
 ---
-Went to VidCon in Anaheim, CA and had a fun time. We also visited Disneyland, because I'm a Disney Freak, and I tried to find as many bee references as I could.
-
-The YouTube creators shown in this video:
-
-* [Michael Aranda](https://www.youtube.com/user/scishow)
-* [Chris](https://www.youtube.com/user/BallingersPresent) & [Jessica](https://www.youtube.com/user/jbtvs) Ballinger
-* [Felicia Day](https://www.youtube.com/user/geekandsundry)
-* [Convos With My 2-Year-Old (Matt, Leila, Coco & Shephard)](https://www.youtube.com/user/ConvosWith2YrOld)
-* V Sauce ([Michael Stevens](https://www.youtube.com/user/Vsauce), [Kevin Lieber](https://www.youtube.com/user/Vsauce2), [Jake Roper](https://www.youtube.com/user/Vsauce3))
+Em and Dec review The Martian in the first ever episode of "Check It or Chuck It?"
