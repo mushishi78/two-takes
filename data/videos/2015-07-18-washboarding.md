@@ -1,7 +1,7 @@
 ---
-title: Washboarding
-youtube_id: T6NgOjyO0sY
-date: 2015-07-18
-category: Facts
+title: Channel Trailer
+youtube_id: oKhmw12mWsM
+date: 2015-09-02
+category: Trailer
 ---
-Have you ever watched bees do this bizarre and fascinating behavior? What do you think they're doing?
+The trailer for our channel.
