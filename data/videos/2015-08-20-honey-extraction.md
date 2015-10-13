@@ -1,5 +1,5 @@
 ---
-title: Bargain Bin Blunder (Ep:1) Dog Story: Little Heroes 2 
+title: "Bargain Bin Blunder (Ep:1) Dog Story: Little Heroes 2"
 youtube_id: 6dq9nRwYXvQ
 date: 2015-09-01
 category: Bargain Bin Blunder
