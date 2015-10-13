@@ -5,11 +5,12 @@ const styles = style({
   a: `
     display: inline-block;
     text-align: left;
-    margin: 15px 1%
-  `,
-  img: `
+    margin: 15px 1%;
     width: 350px;
     max-width: 90%;
+  `,
+  img: `
+    width: 100%;
     border-radius: 10px;
     border: 5px solid #F7911D;
     box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.45);
