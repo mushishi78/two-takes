@@ -9,6 +9,7 @@ export default path => `
       <meta http-equiv='X-UA-Compatible' content='IE=edge' />
       <meta name='viewport' content='width=device-width, initial-scale=1.0' />
       <meta name='description' content=${site.description} />
+      <meta name='google-site-verification' content='5qF5thfeCpp34VSol64wDMDIm1KmMIEgIimF8KlSP9E' />
       <link rel='canonical' href=${site.url + site.baseurl + path} />
       <title>${title(path)}</title>
       <link href='${site.baseurl}/styles.css' rel='stylesheet' type='text/css'>
