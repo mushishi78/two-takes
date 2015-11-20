@@ -1,0 +1,42 @@
+
+---
+title: Kung Fu Panda and Kung Fu Panda 2 Review
+author: Dec
+date: 2015-11-20
+---
+Having heard these Dreamworks family martial arts films were worth checking out I was probably less dubious than most, Jack Black is a panda who overcomes& being a panda to become a kung fu warrior. Sounds ridiculous snorted the people in general.
+But, since I have played Tekken, I know pandas can be great at martial arts, plus I absolutely love School of Rock and even if I havent really enjoyed other Jack Black outings to the same degree- he always gets the benefit of the doubt from me!
+
+So Kung Fu Panda came out in 2008 which at time of writing this review makes it seven years old and I am glad its taken me this long to get around to watching it. The reason for this is the the film really feels like the first bite of something tasty that leaves you wanting more. I think if I hadnt known the sequel was readily available for my greedy consumption I may have been a little unsatisfied with Kung Fu Panda.
+
+The film is about Poe, a panda who dreams of becoming a Kung Fu legend and escaping his life working in his dads noodle bar. An evil leopard with formidable fighting skills escapes a high security prison and thus a showdown is set up as he returns to wreak his revenge on the town Poe lives in.
+
+As you can probably tell the plot is nothing new really. The scenes do bounce along at a fair old pace though, with loads of in your face visual humour and every dramatic moment is punctured by some kind of silly joke just before the point where it would start to get a bit boring and drag the pace down.
+
+When the film finished I thought& Is that it? It felt quite short, covering all of the requisite plot points with efficient professionalism. This is not really a criticism as such, Poe is a delight to watch and has a satisfying character arch but there are a whole host of interesting side characters who are introduced but do not get much screen time to shine. I love the wise old tortoise, who throws out wise sayings and jokes in equal measure but most of the others do not get much of a look in, for example Seth Rogen as a feisty Praying Mantis and Lucy Lui as an ass-kickin snake. 
+
+In particular, the antagonist seems underdeveloped, you get a bare-bones backstory, but not much sense of his motivation or much evidence of his inherent evilness that the film insists he possesses. This should surely ooze out of every pore like alcohol and chicken grease does from me on a Sunday morning, filling the room with undeniable detestability, making hairs stand up and cause small children to weep& 
+
+This means however, that the the film has a tight narrative focus, it is never tedious and every scene has a point. The action is uniformly great; fast paced but not confusing, imaginative but not farcical. The desire to entertain with the sheer visuals literally had us laughing delightedly- such as a truly wonderful scene in which Poe duels against his master (an extremely cute red panda who is kinda like Yoda or something) using chopsticks for the last dumpling. The graceful dance-like movements feel inspired by such Chinese films as Crouching Tiger Hidden Dragon but it never feels like a parody, as most family films will do- instead it is a flamboyant celebration of the style.
+
+This all plays out in front of gorgeous sweeping backgrounds with subtle palettes of creamy colours and purple skies. Another feature worth mentioning are the segments of 2D animation in Chinese style illustrations which really place the film in its geographic setting, I really felt the look and soundtrack created something really cohesive in terms of style and it pulls off a convincing job at appearing somewhat authentic- out-performing Hollywood peers such as Mulan.
+
+When the film ended, I just wanted more, I was curious about the characters and the world introduced in Kung Fu Panda and as I alluded to earlier, it really feels like a film that counted on having sequels to flesh out the creation introduced in the first installment. Which of course leads me to Kung Fu Panda 2- the surprisingly un-subtitled follow up that takes things to the next level of panda-monium! (the pun that just had to be punned.)
+
+The plot catches up with Poe and the gang when Poe has achieved celebrity status as the Dragon Warrior- women want to sleep with him, men want to have a pint with him& or whatever the PG animated Panda version of that is! Poe has come a long way and seems confident and self-assured in his Kung Fu skills, he has accepted his new identity with characteristic gusto and along with the Furious Five he watches over the villagers, protecting them from all harm.
+
+Meanwhile a dangerous, twisted peacock has harnessed the power of fireworks into a fiery new weapon that looks like a cross between a cannon and that fire-pig battering ram thing from the third Lord of the Rings film! Turning that which heralded revelry and brought joy into something which rains destruction and shatters dreams. Our black and white hero Poe must challenge this evil doer and in doing so, confront his own mysterious past.
+
+Tonally it feels like the makes of this sequel have gone for something a little more dramatic, there are still lots of laughs to be had and more of the superb slapstick visual humour from part one, but this time it is balanced by some well constructed dramatic scenes too. Unlike in the the first film, this installment does not throw jokes into every scene to diffuse potentially emotional moments and I think it works really well. There are some genuinely sad moments and complex emotions present.
+
+A lot of this may be due to the villain being a lot more fleshed out in KP2. He seems a lot more threatening and interesting than he predecessor and his personal connection to Poes past means that our main character has much more reason to be invested in defeating his vile machinations! 
+
+Although the plot is easy to follow, there are definitely lot more twists and turns. Poe and the Furious Five travel beyond their own village out into the wide world of ancient China. There is a hilarious scene where they try to infiltrate a town that is controlled by the Peacocks (Gary Oldman) wolf soldiers. They do this by getting in a giant dragon costume, swallowing up unsuspecting guards through the mouth and then dropping them subdued out of the ehem, rear. The mischievous, fast-paced scene unfolds fluidly and when the camera pulls back for an amusing wide-shot from above, I was reminded of Wes Anderson films such as Fantastic Mr Fox (which I love by the way).
+
+I think one of the reasons this film series really works is that Poe is such a lovely character. He is almost always upbeat, unfailingly enthusiastic and good natured. He takes insults in his stride (they slide off him like water off a cranes back) This means that when something manages to upset him it is heartbreaking, you can see the beautiful innocence die before your eyes.
+ 
+Poes happy go lucky nature and boundless enthusiasm contrasts nicely with the characters around him, most of which are more worldly and ironically-aware by comparison. I think this point of view is like how children see the the adult world of weariness and doubt that they just cannot comprehend as they leap with every bit of energy they have all through the day. Poe the irrepressible rascal wins respect by staying true to his nature, even when he is confronted by danger and tragedy. In the end he discovers new strength through finding inner peace, an idea which is not explored as much as it could be but is a nice nod to Eastern philosophies and provides a vehicle for Poe to further develop his mad-skillz with truly spectacular results!
+
+Although everything is tied up nicely at the end, there is still plenty of room for part three, I would love to see something that looks further into the Tigress character. Her insecurities and fears have featured in both films but have yet to be given full treatment and be fully developed. 
+
+All in all, this is a brilliant film series. I think they should have broad appeal for different ages and I cannot wait to see the next one that is surely coming soon, if the Kung Fu Panda series keeps improving like this, its going to be sweeeeeeeet! 
