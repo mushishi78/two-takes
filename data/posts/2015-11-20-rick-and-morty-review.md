@@ -1,6 +1,6 @@
 ---
 title: Rick and Morty Review
-author: Deglan & Emma
+author: Dec
 date: 2015-11-20
 ---
 
