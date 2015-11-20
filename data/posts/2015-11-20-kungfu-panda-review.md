@@ -1,4 +1,3 @@
-
 ---
 title: Kung Fu Panda and Kung Fu Panda 2 Review
 author: Dec
