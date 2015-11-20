@@ -1,4 +1,3 @@
-
 ---
 title: Rick and Morty Review
 author: Deglan & Emma
