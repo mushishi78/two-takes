@@ -2,7 +2,7 @@
 title: "Why We Love Fantastic Mr Fox"
 youtube_id: xHWCvRrecn4
 date: 2015-12-20
-category: TwoTakes Takes On:
+category: TwoTakes Takes On
 ---
 Seeing as it is the season of goodwill, Em and Dec give their thoughts on one of their favourite films: Fantastic Mr Fox. 
 
