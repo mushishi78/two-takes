@@ -1,5 +1,5 @@
 ---
-title: "Stay Alive (2006)"
+title: "Stay Alive"
 youtube_id: rVS2uvhzcTo
 date: 2016-01-25
 category: Bargain Bin Blunder
