@@ -1,5 +1,5 @@
 ---
-title: B Movie Cult Blog #1 Double Impact
+title:  B Movie Cult Blog #1 Double Impact
 author: Dec
 date: 2016-01-20
 ---
