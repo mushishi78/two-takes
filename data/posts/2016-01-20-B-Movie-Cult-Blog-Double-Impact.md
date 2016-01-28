@@ -1,7 +1,7 @@
 title: B Movie Cult Blog #1 Double Impact
 author: Dec
 date: 2016-01-20
-
+---
 Cult night was a packed affair 20/01/2016 as we settled in for the first meeting of the new year.
 
 Double Impact was an early  90s film in which Jean Claude Van Dam plays two twins who are separated whilst young because their parents are murdered. Why were they murdered? We were not paying attention closely enough not know- but it seemed a bit like the set up of batman.
