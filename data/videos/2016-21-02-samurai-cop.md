@@ -1,7 +1,7 @@
 ---
 title: "Samurai Cop"
 youtube_id: LE0TK7-oQy8 
-date: 2016-02-07
+date: 2016-02-21
 category: Check it or Chuck it
 ---
 This movie review sees Twotakes look back on one of their favourite bad movies: Samurai Cop, to celebrate the release of its sequel Samurai Cop 2. They kindly ask that you keep your wig on throughout.
