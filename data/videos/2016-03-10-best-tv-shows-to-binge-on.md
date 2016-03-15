@@ -1,5 +1,5 @@
 ---
-title: "The Best TV Shows to Binge On (Ft. Jumpcut Thoughts)"
+title: "The Best TV Shows to Binge On"
 youtube_id: Tim7fnvfSF0
 date: 2016-03-10
 category: TwoTakes Takes On
