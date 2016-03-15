@@ -1,7 +1,7 @@
 ---
 title: "The Best TV Shows to Binge On (Ft. Jumpcut Thoughts)"
 youtube_id: Tim7fnvfSF0
-date: 2015-03-10
+date: 2016-03-10
 category: TwoTakes Takes On
 ---
 In an era in which auto-play technology has been gloriously realised, Twotakes (joined by their fellow youtuber: Jumpcut Thoughts) present some of their favourite shows to binge on... Truly a more random collection of choices has nay graced a Youtube video before.
