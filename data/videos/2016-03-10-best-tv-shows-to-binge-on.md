@@ -26,7 +26,7 @@ Check out: http://www.dl-sounds.com for great royalty free music.
 Follow us on:
 Twitter: https://twitter.com/TwoTakesReviews
 Facebook: https://www.facebook.com/twotakesreviews
-and check our website for extra content: www.twotakes.co.uk
+Youtube: https://www.youtube.com/channel/UC8329b3fYwBT0uHUuVzgPbg
 
 Check out Jumpcut Thoughts:
 
