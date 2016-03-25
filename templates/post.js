@@ -1,7 +1,14 @@
 import { style, prettyDate } from '../utils';
 import HomeButton from './home-button';
 
-const styles = style({ article: 'margin: 0 10%', body: 'color: #fff' });
+const styles = style({
+  article: `
+    background: rgba(255, 255, 255, 0.35);
+    padding: 15px 10%;
+    border-radius: 10px;
+  `,
+  body: 'color: #fff'
+});
 
 export default post => `
   <main itemscope itemtype='http://schema.org/BlogPosting'>
